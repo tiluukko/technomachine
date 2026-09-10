@@ -1,2 +1,2 @@
-# technomachine
-Transhumanistic Technomachine - A human body driven generative ai exhibition experience 
+# Transhumanistic Technomachine
+A human body driven generative ai exhibition experience 
